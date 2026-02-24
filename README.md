@@ -14,7 +14,21 @@ You can play the game live here:
 ## Getting Started
 Follow these instructions to set up the project locally on your machine:
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/TetiankaSh/2048_game_TetSh.git](https://github.com/TetiankaSh/2048_game_TetSh.git)
-   cd 2048_game_TetSh
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/TetiankaSh/2048_game_TetSh.git
+cd 2048_game_TetSh
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run the project locally
+
+```bash
+npm start
+```
