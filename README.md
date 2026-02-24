@@ -1,4 +1,4 @@
-# 2048 Game - TetSh Edition
+# 2048 Game
 
 A sleek, responsive, and modern web-based implementation of the classic 2048 puzzle game. This project was developed to provide a smooth, cross-platform gaming experience while demonstrating clean logic, state management, and CSS animations.
 
